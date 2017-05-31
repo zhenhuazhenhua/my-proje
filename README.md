@@ -1,0 +1,2 @@
+# my-proje
+this my
